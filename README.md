@@ -11,6 +11,10 @@ There are a few dependencies:
 1. all implementations are built upon the olcPixelGameEngine.h header file by JavidX9 - see: https://github.com/OneLoneCoder/olcPixelGameEngine
 2. for most of the implementations you need some map file. I enclosed the Bisqwit map in the repo, but you can use your own if you want. Adapt the file name in the code to this end.
 
+
+IMPORTANT NOTE: the series is still under construction. More implementations will be posted...
+
+
 Have fun with it!
 
 Joseph21
