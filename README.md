@@ -2,7 +2,7 @@
 
 A series of progressive implementations based on the Portal Rendering video by Bisqwit (see: https://youtu.be/HQYsFshbkYw)
 
-The series is progressive - each next implementation builds upon the previous one. So in order to understand the code, I advise to start at the first implementation (that is part 1a - Setup and datastructures), and work your way through the series. It helps of course if you check out the Bisqwit video while looking through the code.
+The series is progressive - each next implementation builds upon the previous one. To best understand the code I advise to start at the first implementation (that is part 1a - Setup and datastructures), and work your way through the series. You can use a difference analysis tool (like WinMerge) to pinpoint the addition of each implementation in comparison with the previous one. It helps of course if you check out the Bisqwit video while looking through the code.
 
 In each cpp file I added a short description where I summarize what that particular part is about.
 
