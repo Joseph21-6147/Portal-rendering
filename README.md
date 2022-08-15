@@ -12,7 +12,7 @@ There are a few dependencies:
 2. for most of the implementations you need some map file. I enclosed the Bisqwit map in the repo, but you can use your own if you want. Adapt the file name in the code to this end.
 
 
-IMPORTANT NOTE: the series is still under construction. More implementations will be posted...
+NOTE: the code contains bugs and shows glitches in the rendering. If you have ideas how to solve these, you are more than welcome!
 
 
 Have fun with it!
